@@ -1,0 +1,7 @@
+# Local source archives and design references
+reference/
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
+*.log

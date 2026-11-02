@@ -1,0 +1,1 @@
+Website text uses the system typewriter stack: Courier New, Courier, monospace. No font download is required. The unused Patrick Hand source and license are preserved in reference/petit-marche/fonts/.
